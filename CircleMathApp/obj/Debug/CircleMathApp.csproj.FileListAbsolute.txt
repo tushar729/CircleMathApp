@@ -1,0 +1,6 @@
+H:\mustafiz\CircleMathApp\CircleMathApp\bin\Debug\CircleMathApp.exe.config
+H:\mustafiz\CircleMathApp\CircleMathApp\bin\Debug\CircleMathApp.exe
+H:\mustafiz\CircleMathApp\CircleMathApp\bin\Debug\CircleMathApp.pdb
+H:\mustafiz\CircleMathApp\CircleMathApp\obj\Debug\CircleMathApp.csprojResolveAssemblyReference.cache
+H:\mustafiz\CircleMathApp\CircleMathApp\obj\Debug\CircleMathApp.exe
+H:\mustafiz\CircleMathApp\CircleMathApp\obj\Debug\CircleMathApp.pdb
